@@ -8,7 +8,6 @@ public class RupeesToUsd {
         float usd;
 
         usd = rupee/83;
-
         System.out.println("$"+ usd);
     }
 }
