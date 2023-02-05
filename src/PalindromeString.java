@@ -10,6 +10,7 @@ public class PalindromeString {
             dummy += str.charAt(i);
         }
         if(str.equals(dummy)){
+
             System.out.println("String is a palindrome");
         }else{
             System.out.println("String is not a palindrome");
